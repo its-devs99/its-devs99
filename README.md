@@ -41,7 +41,7 @@ I'm a results-driven IT professional with over 5 years of experience in building
 ![Python](<https://img.shields.io/badge/Python%20(Basic)-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white>)
 
 ### 🗄️ Databases & Tools
-
+  
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-%2300A1E0.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -141,4 +141,5 @@ _"Passionate about building solutions that bridge the gap between business needs
 ---
 
 ⭐️ Feel free to explore my repositories and reach out for collaboration opportunities!
+
 
