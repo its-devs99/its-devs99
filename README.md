@@ -8,7 +8,7 @@
 
 ## 👋 Welcome!
 
-Hi there! I'm **Dev Sharma**, a passionate IT professional specializing in business analysis, software development, and agile project management.
+Hi there! I'm **Dev Sharma**, a passionate IT professional specializing in business analysis, software development, and agile project management.  
 
 ---
 
@@ -141,3 +141,4 @@ _"Passionate about building solutions that bridge the gap between business needs
 ---
 
 ⭐️ Feel free to explore my repositories and reach out for collaboration opportunities!
+
