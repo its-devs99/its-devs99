@@ -94,7 +94,7 @@ I'm a results-driven IT professional with over 5 years of experience in building
 - Cloud technologies and DevOps practices
 - AI/ML integration in business applications
 - Modern frontend frameworks
-- German language (A1 level, continuing to improve!)
+- German (A2+, currently improving)
 
 ---
 
@@ -124,7 +124,7 @@ I'm a results-driven IT professional with over 5 years of experience in building
 
 **Associate @ Concentrix** (09/2019 – 02/2021)
 
-- Specialized in health insurance claims management systems
+- Led System Testing and Regression Testing
 - Developed test plans and strategies for system enhancements
 - Performed sophisticated data analysis on medical claims using advanced SQL
 
@@ -141,6 +141,7 @@ _"Passionate about building solutions that bridge the gap between business needs
 ---
 
 ⭐️ Feel free to explore my repositories and reach out for collaboration opportunities!
+
 
 
 
