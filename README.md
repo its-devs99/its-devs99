@@ -14,7 +14,7 @@ Hi there! I'm **Dev Sharma**, a passionate IT professional specializing in busin
 
 ## 🚀 About Me
 
-I'm a results-driven IT professional with over 5 years of experience in building scalable software solutions and managing complex projects within Agile frameworks. Currently pursuing my Master of Business Administration in IT at IU International University of Applied Sciences in Berlin, I combine technical expertise with business acumen to deliver innovative solutions.
+I'm a results-driven IT professional with over 5 years of experience in building scalable software solutions and managing complex projects within Agile frameworks. Currently pursuing my Master of Business Administration in IT in Berlin, I combine technical expertise with business acumen to deliver innovative solutions.
 
 - 📍 Based in Berlin, Germany
 - 🎓 MBA in IT (Current) | Bachelor of Commerce
@@ -108,8 +108,8 @@ I'm a results-driven IT professional with over 5 years of experience in building
 
 ## 💡 Fun Facts
 
-- 🎓 Volunteer educator at a shelter home in Delhi (2015-2017), where I mentored 10+ underprivileged students
-- 🌍 Multilingual: Fluent in English (C1) and learning German (A1)
+- 🎓 Volunteer educator at a shelter home(2015-2017), where I mentored and offered educational support to 10+ kids
+- 🌍 Multilingual: Fluent in English (C1),Lhasa Tibetan(written) and learning German (A2)
 - 🤝 Strong believer in giving back to the community through education and mentorship
 
 ---
@@ -141,5 +141,6 @@ _"Passionate about building solutions that bridge the gap between business needs
 ---
 
 ⭐️ Feel free to explore my repositories and reach out for collaboration opportunities!
+
 
 
