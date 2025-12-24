@@ -102,7 +102,6 @@ I'm a results-driven IT professional with over 5 years of experience in building
 
 - 📧 Email: [devs606@gmail.com](mailto:devs606@gmail.com)
 - 💼 LinkedIn: [Connect with me on LinkedIn](#)
-- 📱 Phone: +49 176 16041113
 
 ---
 
@@ -141,6 +140,7 @@ _"Passionate about building solutions that bridge the gap between business needs
 ---
 
 ⭐️ Feel free to explore my repositories and reach out for collaboration opportunities!
+
 
 
 
